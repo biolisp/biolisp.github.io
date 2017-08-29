@@ -13,7 +13,7 @@ Whether you're a Lisp hacker, an aspiring biohacker, or just love data science -
 
 ### Upcoming Events
 
-- Keep an eye out on [Meetup](https://www.meetup.com/) for our next event hosted in the Bay Area
+- Keep an eye out on [Meetup](https://www.meetup.com/Stanford-Biolisp-Meetup/) for our next event hosted in the Bay Area
 
 ### Joining Biolisp
 
