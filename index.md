@@ -12,6 +12,7 @@ Whether you're a Lisp hacker, an aspiring biohacker, or just love data science -
 - SRI International researchers publish the [EcoCyc database](https://www.ncbi.nlm.nih.gov/pubmed/27899573) in the Oxford University Press journal _Nucleic Acids Research_ to reflect new knowledge about Escherichia coli K-12
 - SRI International researchers publish the [MetaCyc database of metabolic pathways and enzymes and the BioCyc collection of pathway/genome databases](https://www.ncbi.nlm.nih.gov/pubmed/26527732) in the Oxford University Press journal _Nucleic Acids Research_
 - SRI International researchers publish [Pathway Tools version 19.0 update: software for pathway/genome informatics and systems biology](https://www.ncbi.nlm.nih.gov/pubmed/26454094) in the Oxford University Press journal _Briefings in Bioinformatics_
+- SRI International researchers publish [Representation and inference of cellular architecture for metabolic reconstruction and modeling](https://www.ncbi.nlm.nih.gov/pubmed/26628588) in the Oxford University Press journal _Bioinformatics_
 - Researchers from bioinformatics startup company [Xcoo, Inc.](https://xcoo.jp/) in Tokyo, Japan release a DNA sequence alignment/map (SAM) library for Clojure called [cljam](https://scfbm.biomedcentral.com/articles/10.1186/s13029-016-0058-6)
 
 ### Upcoming Events
