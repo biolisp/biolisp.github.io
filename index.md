@@ -17,7 +17,7 @@ Whether you're a Lisp hacker, an aspiring biohacker, or just love data science -
 
 ### Joining Biolisp
 
-Come [join us](https://github.com/biolisp) at our Github organization 
+Come [say hi](https://github.com/biolisp) at our Github organization.  We look forward to seeing you at our next event. 
 
 ### Support or Contact
 
