@@ -1,4 +1,4 @@
 theme: jekyll-theme-hacker
 title: Biolisp
 description: Hacking biological data science
-avatar: biolisp.github.io/img/biolisp_logo.png
+avatar: "biolisp.github.io/img/biolisp_logo.png"
