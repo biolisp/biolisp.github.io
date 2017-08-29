@@ -11,6 +11,14 @@ Whether you're a Lisp hacker, an aspiring biohacker, or just love data science -
 - Oxford University Press journal _Briefings in Bioinformatics_ publishes [How the strengths of Lisp-family languages facilitate building complex and flexible bioinformatics applications](https://doi.org/10.1093/bib/bbw130), sparking fierce discussion on [Reddit Programming](https://www.reddit.com/r/programming/comments/5n2gdw/how_the_strengths_of_lispfamily_languages/)
 - Researchers from bioinformatics startup company [Xcoo, Inc.](https://xcoo.jp/) in Tokyo, Japan release a DNA sequence alignment/map (SAM) library for Clojure called [cljam](https://scfbm.biomedcentral.com/articles/10.1186/s13029-016-0058-6)
 
+### Upcoming Events
+
+- Keep an eye out on [Meetup](https://www.meetup.com/) for our next event hosted in the Bay Area
+
+### Joining Biolisp
+
+Come [join us](https://github.com/biolisp) at our Github organization 
+
 ### Support or Contact
 
 Feel free to reach out to us [here](https://github.com/biolisp/biolisp.github.io/issues) or send a private email to the Biolisp organizer [Bohdan Khomtchouk](http://bohdankhomtchouk.com/) at: bohdan@stanford.edu
