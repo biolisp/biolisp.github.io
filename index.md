@@ -1,8 +1,8 @@
 ## Welcome to the Biolisp community!
 
-Biology has become a data science.  Hacking genomes to extract insights into problems ranging from cancer to aging is now the norm.  Whether you're a Lisp hacker, an aspiring biohacker, or just love data science -- we encourage you to join our community.   
+Biology has become a data science.  Hacking genomes to extract insights into problems ranging from cancer to aging is now the norm.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whether you're a Lisp hacker, an aspiring biohacker, or just love data science -- we encourage you to join our community.   
 
 ### Markdown
 
