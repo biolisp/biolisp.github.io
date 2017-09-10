@@ -8,7 +8,7 @@ Whether you're a Lisp hacker, an aspiring biohacker, or just love data science -
 
 [Gill Bejerano](http://bejerano.stanford.edu/researchcs.html) said it best:
 
-Genomics is as much a field of Computer Science, as it is a field of Biomedicine. There is the code, which is your genome, less than a gigabyte long. This piece of code "runs" every single cell in your body. And then there is you -- the code's output. A giant "cellular" automaton.
+Genomics is as much a field of computer science, as it is a field of biomedicine. There is the code, which is your genome, less than a gigabyte long. This piece of code "runs" every single cell in your body. And then there is you -- the code's output. A giant "cellular" automaton.
 
 Seen this way, the genome is the most fascinating distributed operating system on the planet. Human genomics is the study of how this operating system produces its output -- you:
 
@@ -18,9 +18,9 @@ Seen this way, the genome is the most fascinating distributed operating system o
  
 - The genome also holds a fascinating record of how we became who we are today, at the code level. Of how other animals (successful source code forks) have become so different from us. And what code "modules" we may borrow from them to improve our own health.
 
-The knowledge of what "bugs" in our code will pain us the most, how best we may "patch" them (with drugs and procedures), how best to fix our bugs (genetic engineering) or "compile" only bug free versions (in-vitro fertilization). All of these will profoundly change humanity as we know it today. If you want to help bring this revolution on, if you want to become a literal hero and save lives from your keyboard, if you want to help shape humanity's big leap into the future -- join us.
+The knowledge of what "bugs" in our code will pain us the most, how best we may "patch" them (with drugs and procedures), how best to fix our bugs (genetic engineering) or "compile" only bug free versions (in-vitro fertilization). All of these will profoundly change humanity as we know it today. If you want to help bring this revolution on, if you want to become a literal hero and save lives from your keyboard, if you want to help shape humanity's big leap into the future -- [join us](https://www.meetup.com/Stanford-Biolisp-Meetup/).
 
-Sounds cool but you know very little biology? So did many of us, when we got started. If you are interested in this intersection - the world is starving for people like yourself. We pick things up as we go, we team up with great people (doctors, experimentalists) of complementary expertise to our own, we draw courage form our patients and their families, and together we make a difference in the world.
+Sounds cool but you know very little biology? So did many of us, when we got started. If you are interested in this intersection - the world is starving for people like yourself. We pick things up as we go, we team up with great people (doctors, experimentalists) of complementary expertise to our own, we draw courage from our patients and their families, and together we make a difference in the world.
 
 ### Recent News
 
