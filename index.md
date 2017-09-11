@@ -38,12 +38,35 @@ Sounds cool but you know very little biology? So did many of us, when we got sta
 > itself a lot." 
 > --Eric Raymond, "How to Become a Hacker"
 
+
 > "Lisp has jokingly been called 'the most intelligent way 
 > to misuse a computer'. I think that description is a great 
 > compliment because it transmits the full flavor of liberation: 
 > it has assisted a number of our most gifted fellow humans in 
 > thinking previously impossible thoughts."
 > --Edsger Dijkstra, CACM, 15:10 
+
+
+> "Part of what makes Lisp distinctive is that it is designed 
+> to evolve. As new abstractions become popular (object-oriented 
+> programming, for example), it always turns out to be easy to 
+> implement them in Lisp. Like DNA, such a language does not 
+> go out of style."
+> --Paul Graham, Co-founder of Y Combinator
+
+
+> "I think that besides its hybrid nature — being able to write both 
+> interactive and compiled Lisp within the same application — Lisp 
+> itself is particularly great for creating domain-specific languages.
+> That can be quite useful for fitting the language to the problem, 
+> not the other way around. Basically, the language never gets in your 
+> way. The easiest way to explain it would be that if you want to cross 
+> a mountain, you don’t have to climb over it or go around it — you can 
+> simply go through it. It is a hard analogy to explain until you try 
+> coding something complex in Lisp yourself and are coming in with 
+> experience using other programming languages. There can certainly be 
+> a fair share of 'aha' moments."
+> --Bohdan Khomtchouk, Postdoctoral Research Scholar at Stanford University
 
 ### Recent News
 
