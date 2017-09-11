@@ -24,16 +24,6 @@ Sounds cool but you know very little biology? So did many of us, when we got sta
 
 ### Why Lisp?
 
-1. [The myth of the Lisp genius](https://www.johndcook.com/blog/2011/04/26/the-myth-of-the-lisp-genius/)
-2. [How the strengths of Lisp-family languages facilitate building complex and flexible bioinformatics applications](https://doi.org/10.1093/bib/bbw130)
-3. [Beating the Averages](http://www.paulgraham.com/avg.html)
-4. [Lisp Bot Wins Google AI Challenge](http://www.dataversity.net/lisp-bot-wins-google-ai-challenge-will-lisp-win-in-the-semantic-web-too/)
-5. [The Bipolar Lisp Programmer](http://web.archive.org/web/20150308085419/http://www.lambdassociates.org/blog/bipolar.htm)
-6. [Performance and efficiency](http://www.iaeng.org/IJCS/issues_v32/issue_4/IJCS_32_4_19.pdf)
-7. [Common Lisp](http://lisp-lang.org/)
-
-### Lisp quotes
-
 > "Lisp is worth learning for the profound enlightenment 
 > experience you will have when you finally get it; that 
 > experience will make you a better programmer for the 
@@ -98,6 +88,16 @@ Sounds cool but you know very little biology? So did many of us, when we got sta
 > experience using other programming languages. There can certainly be 
 > a fair share of 'aha' moments."
 > --Bohdan Khomtchouk, Postdoctoral Research Scholar at Stanford University
+
+### Still not convinced?
+
+1. [The myth of the Lisp genius](https://www.johndcook.com/blog/2011/04/26/the-myth-of-the-lisp-genius/)
+2. [How the strengths of Lisp-family languages facilitate building complex and flexible bioinformatics applications](https://doi.org/10.1093/bib/bbw130)
+3. [Beating the Averages](http://www.paulgraham.com/avg.html)
+4. [Lisp Bot Wins Google AI Challenge](http://www.dataversity.net/lisp-bot-wins-google-ai-challenge-will-lisp-win-in-the-semantic-web-too/)
+5. [The Bipolar Lisp Programmer](http://web.archive.org/web/20150308085419/http://www.lambdassociates.org/blog/bipolar.htm)
+6. [Performance and efficiency](http://www.iaeng.org/IJCS/issues_v32/issue_4/IJCS_32_4_19.pdf)
+7. [Common Lisp](http://lisp-lang.org/)
 
 ### Recent News
 
