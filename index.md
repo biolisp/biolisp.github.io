@@ -31,11 +31,19 @@ Sounds cool but you know very little biology? So did many of us, when we got sta
 
 ### Lisp quotes
 
-> Lisp is worth learning for the profound enlightenment 
+> "Lisp is worth learning for the profound enlightenment 
 > experience you will have when you finally get it; that 
 > experience will make you a better programmer for the 
 > rest of your days, even if you never actually use Lisp 
-> itself a lot." --Eric Raymond, "How to Become a Hacker"
+> itself a lot." 
+> --Eric Raymond, "How to Become a Hacker"
+
+> "Lisp has jokingly been called 'the most intelligent way 
+> to misuse a computer'. I think that description is a great 
+> compliment because it transmits the full flavor of liberation: 
+> it has assisted a number of our most gifted fellow humans in 
+> thinking previously impossible thoughts."
+> --Edsger Dijkstra, CACM, 15:10 
 
 ### Recent News
 
