@@ -26,8 +26,9 @@ Sounds cool but you know very little biology? So did many of us, when we got sta
 
 1. [How the strengths of Lisp-family languages facilitate building complex and flexible bioinformatics applications](https://doi.org/10.1093/bib/bbw130)
 2. [Beating the Averages](http://www.paulgraham.com/avg.html)
-3. [Performance and efficiency](http://www.iaeng.org/IJCS/issues_v32/issue_4/IJCS_32_4_19.pdf)
-4. [Common Lisp](http://lisp-lang.org/)
+3. [The myth of the Lisp genius](https://www.johndcook.com/blog/2011/04/26/the-myth-of-the-lisp-genius/)
+4. [Performance and efficiency](http://www.iaeng.org/IJCS/issues_v32/issue_4/IJCS_32_4_19.pdf)
+5. [Common Lisp](http://lisp-lang.org/)
 
 ### Lisp quotes
 
