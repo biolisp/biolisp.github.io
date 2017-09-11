@@ -62,6 +62,14 @@ Sounds cool but you know very little biology? So did many of us, when we got sta
 > other languages."  --Richard Stallman, Creator of GNU, Emacs, GCC, GPL, and FSF
 <br />
 
+> "The winning submission was a bag of 70 dropout neural networks and took one day 
+> to train on a GTX Titan GPU in double precision mode. Prediction took about an hour.
+> My tests indicate that 8-16 neural networks are very close in performance to 70, so 
+> this was probably an overkill."
+> --Gábor Melis on his winning solution (written in Common Lisp) to the Higgs Boson Machine Learning
+> Challenge on Kaggle
+<br />
+
 > "Lisp offers programmers the unique ability to write code as quickly 
 > and easily as in other high-level languages like R or Python, yet 
 > retain all or nearly all of the performance from writing in a lower-level 
