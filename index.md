@@ -37,7 +37,7 @@ Sounds cool but you know very little biology? So did many of us, when we got sta
 > rest of your days, even if you never actually use Lisp 
 > itself a lot." 
 > --Eric Raymond, "How to Become a Hacker"
-
+<br />
 
 > "Lisp has jokingly been called 'the most intelligent way 
 > to misuse a computer'. I think that description is a great 
@@ -45,7 +45,7 @@ Sounds cool but you know very little biology? So did many of us, when we got sta
 > it has assisted a number of our most gifted fellow humans in 
 > thinking previously impossible thoughts."
 > --Edsger Dijkstra, CACM, 15:10 
-
+<br />
 
 > "Part of what makes Lisp distinctive is that it is designed 
 > to evolve. As new abstractions become popular (object-oriented 
@@ -53,7 +53,17 @@ Sounds cool but you know very little biology? So did many of us, when we got sta
 > implement them in Lisp. Like DNA, such a language does not 
 > go out of style."
 > --Paul Graham, Co-founder of Y Combinator
+<br />
 
+> Lisp offers programmers the unique ability to write code as quickly 
+> and easily as in other high-level languages like R or Python, yet 
+> retain all or nearly all of the performance from writing in a lower-level 
+> language like C.  Lisp boosts programmer efficiency and maximizes 
+> productivity. My group has used it for 25 years to develop one of the most 
+> comprehensive bioinformatics software systems.
+> --Peter Karp, Director, Bioinformatics Research Group, Artificial Intelligence Center
+> at SRI International
+<br />
 
 > "I think that besides its hybrid nature — being able to write both 
 > interactive and compiled Lisp within the same application — Lisp 
