@@ -22,6 +22,19 @@ The knowledge of what "bugs" in our code will pain us the most, how best we may 
 
 Sounds cool but you know very little biology? So did many of us, when we got started. If you are interested in this intersection - the world is starving for people like yourself. We pick things up as we go, we team up with great people (doctors, experimentalists) of complementary expertise to our own, we draw courage from our patients and their families, and together we make a difference in the world.
 
+### Why Lisp?
+
+1. [How the strengths of Lisp-family languages facilitate building complex and flexible bioinformatics applications](https://doi.org/10.1093/bib/bbw130)
+2. [Beating the Averages](http://www.paulgraham.com/avg.html)
+3. [Performance and efficiency](http://www.iaeng.org/IJCS/issues_v32/issue_4/IJCS_32_4_19.pdf)
+4. [Common Lisp](http://lisp-lang.org/)
+
+### Lisp quotes
+
+```markdown
+"Lisp is worth learning for the profound enlightenment experience you will have when you finally get it; that experience will make you a better programmer for the rest of your days, even if you never actually use Lisp itself a lot." --Eric Raymond, "How to Become a Hacker"
+```
+
 ### Recent News
 
 - Stanford University scientists use Common Lisp to begin organizing the world's biological information through natural language processing and machine learning algorithms: [Biochat](https://github.com/Bohdan-Khomtchouk/Biochat)
