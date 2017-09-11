@@ -24,11 +24,13 @@ Sounds cool but you know very little biology? So did many of us, when we got sta
 
 ### Why Lisp?
 
-1. [How the strengths of Lisp-family languages facilitate building complex and flexible bioinformatics applications](https://doi.org/10.1093/bib/bbw130)
-2. [Beating the Averages](http://www.paulgraham.com/avg.html)
-3. [The myth of the Lisp genius](https://www.johndcook.com/blog/2011/04/26/the-myth-of-the-lisp-genius/)
-4. [Performance and efficiency](http://www.iaeng.org/IJCS/issues_v32/issue_4/IJCS_32_4_19.pdf)
-5. [Common Lisp](http://lisp-lang.org/)
+1. [The myth of the Lisp genius](https://www.johndcook.com/blog/2011/04/26/the-myth-of-the-lisp-genius/)
+2. [How the strengths of Lisp-family languages facilitate building complex and flexible bioinformatics applications](https://doi.org/10.1093/bib/bbw130)
+3. [Beating the Averages](http://www.paulgraham.com/avg.html)
+4. [Lisp Bot Wins Google AI Challenge](http://www.dataversity.net/lisp-bot-wins-google-ai-challenge-will-lisp-win-in-the-semantic-web-too/)
+5. [The Bipolar Lisp Programmer](http://web.archive.org/web/20150308085419/http://www.lambdassociates.org/blog/bipolar.htm)
+6. [Performance and efficiency](http://www.iaeng.org/IJCS/issues_v32/issue_4/IJCS_32_4_19.pdf)
+7. [Common Lisp](http://lisp-lang.org/)
 
 ### Lisp quotes
 
@@ -46,6 +48,10 @@ Sounds cool but you know very little biology? So did many of us, when we got sta
 > it has assisted a number of our most gifted fellow humans in 
 > thinking previously impossible thoughts."
 > --Edsger Dijkstra, CACM, 15:10 
+<br />
+
+> "Lisp programmers know the value of everything and the cost of
+> nothing."  --Alan Perlis, first recipient of the Turing Award
 <br />
 
 > "Part of what makes Lisp distinctive is that it is designed 
