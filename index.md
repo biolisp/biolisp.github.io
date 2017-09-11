@@ -55,12 +55,18 @@ Sounds cool but you know very little biology? So did many of us, when we got sta
 > --Paul Graham, Co-founder of Y Combinator
 <br />
 
-> Lisp offers programmers the unique ability to write code as quickly 
+> "The most powerful programming language is Lisp.  If you don't know 
+> Lisp (or its variant, Scheme), you don't appreciate what a powerful 
+> language is.  Once you learn Lisp you will see what is missing in most 
+> other languages."  --Richard Stallman, Creator of GNU, Emacs, GCC, GPL, and FSF
+<br />
+
+> "Lisp offers programmers the unique ability to write code as quickly 
 > and easily as in other high-level languages like R or Python, yet 
 > retain all or nearly all of the performance from writing in a lower-level 
 > language like C.  Lisp boosts programmer efficiency and maximizes 
 > productivity. My group has used it for 25 years to develop one of the most 
-> comprehensive bioinformatics software systems.
+> comprehensive bioinformatics software systems."
 > --Peter Karp, Director, Bioinformatics Research Group, Artificial Intelligence Center
 > at SRI International
 <br />
