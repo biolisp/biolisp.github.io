@@ -101,6 +101,7 @@ Sounds cool but you know very little biology? So did many of us, when we got sta
 
 ### Recent News
 
+- Rigetti Computing is building [quantum computers with Lisp:](https://www.meetup.com/balisp/events/244921835/?rv=me1&_af=event&_af_eid=244921835&https=on)
 - Stanford University scientists use Common Lisp to begin organizing the world's biological information through natural language processing and machine learning algorithms: [Biochat](https://github.com/Bohdan-Khomtchouk/Biochat)
 - This year's keynote speech at the [European Lisp Symposium](http://european-lisp-symposium.org/2017/index.html) in Brussels, Belgium is entitled: "How the strengths of Lisp-family languages facilitate building complex and flexible bioinformatics applications".  Read the press release [here](http://med.miami.edu/news/miller-school-researchers-help-push-the-limits-of-programming-languages-in-)
 - Oxford University Press journal _Briefings in Bioinformatics_ publishes [How the strengths of Lisp-family languages facilitate building complex and flexible bioinformatics applications](https://doi.org/10.1093/bib/bbw130), sparking fierce discussion on [Reddit Programming](https://www.reddit.com/r/programming/comments/5n2gdw/how_the_strengths_of_lispfamily_languages/)
