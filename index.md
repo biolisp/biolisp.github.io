@@ -91,20 +91,22 @@ Sounds cool but you know very little biology? So did many of us, when we got sta
 
 ### Still not convinced?
 
-1. [The myth of the Lisp genius](https://www.johndcook.com/blog/2011/04/26/the-myth-of-the-lisp-genius/)
-2. [How the strengths of Lisp-family languages facilitate building complex and flexible bioinformatics applications](https://doi.org/10.1093/bib/bbw130)
-3. [Beating the Averages](http://www.paulgraham.com/avg.html)
-4. [Lisp Bot Wins Google AI Challenge](http://www.dataversity.net/lisp-bot-wins-google-ai-challenge-will-lisp-win-in-the-semantic-web-too/)
-5. [The Bipolar Lisp Programmer](http://web.archive.org/web/20150308085419/http://www.lambdassociates.org/blog/bipolar.htm)
-6. [Performance and efficiency](http://www.iaeng.org/IJCS/issues_v32/issue_4/IJCS_32_4_19.pdf)
-7. [Common Lisp](http://lisp-lang.org/)
+1. [A functional, relational database in about 250 lines of Common Lisp... whoa](https://github.com/Wukix/LambdaLite#lisp-plug)
+2. [The myth of the Lisp genius](https://www.johndcook.com/blog/2011/04/26/the-myth-of-the-lisp-genius/)
+3. [How the strengths of Lisp-family languages facilitate building complex and flexible bioinformatics applications](https://doi.org/10.1093/bib/bbw130)
+4. [Beating the Averages](http://www.paulgraham.com/avg.html)
+5. [Lisp Bot Wins Google AI Challenge](http://www.dataversity.net/lisp-bot-wins-google-ai-challenge-will-lisp-win-in-the-semantic-web-too/)
+6. [The Bipolar Lisp Programmer](http://web.archive.org/web/20150308085419/http://www.lambdassociates.org/blog/bipolar.htm)
+7. [Performance and efficiency](http://www.iaeng.org/IJCS/issues_v32/issue_4/IJCS_32_4_19.pdf)
+8. [Common Lisp](http://lisp-lang.org/)
 
 ### Recent News
 
+- Emotiq is building a [next-generation blockchain in Lisp](http://emotiq.ch).
 - Peter Karp talks 25 years of BioCyc at [Biolisp's December 2017 meeting](https://www.youtube.com/watch?v=vaxq_RMy1Eo&feature=youtu.be).
 - Rigetti Computing is building [quantum computers with Lisp](https://www.meetup.com/balisp/events/244921835/?rv=me1&_af=event&_af_eid=244921835&https=on).  See the full YouTube video [here](https://www.youtube.com/watch?v=f9vRcSAneiw) hosted from our friends at [BALisp](http://balisp.org/).
 - Stanford University scientists use Common Lisp to begin organizing the world's biological information through natural language processing and machine learning algorithms: [Biochat](https://github.com/Bohdan-Khomtchouk/Biochat)
-- This year's keynote speech at the [European Lisp Symposium](http://european-lisp-symposium.org/2017/index.html) in Brussels, Belgium is entitled: "How the strengths of Lisp-family languages facilitate building complex and flexible bioinformatics applications".  Read the press release [here](http://med.miami.edu/news/miller-school-researchers-help-push-the-limits-of-programming-languages-in-)
+- Last year's keynote speech at the [European Lisp Symposium](http://european-lisp-symposium.org/2017/index.html) in Brussels, Belgium is entitled: "How the strengths of Lisp-family languages facilitate building complex and flexible bioinformatics applications".  Read the press release [here](http://med.miami.edu/news/miller-school-researchers-help-push-the-limits-of-programming-languages-in-)
 - Oxford University Press journal _Briefings in Bioinformatics_ publishes [How the strengths of Lisp-family languages facilitate building complex and flexible bioinformatics applications](https://doi.org/10.1093/bib/bbw130), sparking fierce discussion on [Reddit Programming](https://www.reddit.com/r/programming/comments/5n2gdw/how_the_strengths_of_lispfamily_languages/)
 - SRI International researchers publish the [EcoCyc database](https://www.ncbi.nlm.nih.gov/pubmed/27899573) in the Oxford University Press journal _Nucleic Acids Research_ to reflect new knowledge about Escherichia coli K-12
 - SRI International researchers publish the [MetaCyc database of metabolic pathways and enzymes and the BioCyc collection of pathway/genome databases](https://www.ncbi.nlm.nih.gov/pubmed/26527732) in the Oxford University Press journal _Nucleic Acids Research_
