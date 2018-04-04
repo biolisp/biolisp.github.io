@@ -58,6 +58,11 @@ Sounds cool but you know very little biology? So did many of us, when we got sta
 > other languages."  --Richard Stallman, Creator of GNU, Emacs, GCC, GPL, and FSF
 <br />
 
+> "At Grammarly, the foundation of our business, our core grammar engine, is written 
+> in Common Lisp. It currently processes more than a thousand sentences per second, is 
+> horizontally scalable, and has reliably served in production for almost 3 years."  --Vsevolod Dyomkin, Franz Inc.
+<br />
+
 > "The winning submission was a bag of 70 dropout neural networks and took one day 
 > to train on a GTX Titan GPU in double precision mode. Prediction took about an hour.
 > My tests indicate that 8-16 neural networks are very close in performance to 70, so 
